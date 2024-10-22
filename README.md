@@ -28,3 +28,6 @@ Produto ()
 No Main -> solicitar dados de ao menos 2 categorias e 3 produtos, criar os objetos e listar ocardápio
 
 OPCIONAL Criar menu
+
+----------------------------------
+-> java.util.ArrayList 
