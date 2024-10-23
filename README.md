@@ -31,10 +31,10 @@ OPCIONAL) Criar menu
 
 ---------------------------------- Pt2
 - Mover
-    Norte   y--
-    Sul ↓   y++
-    Oeste ← x--
-    Leste → x++
+    Norte   y--      y
+    Sul ↓   y++      y
+    Oeste ← x--      y
+    Leste → x++        x x x
 
 - Armazenar nova posicao em arraylist
 - calcular distancia percorrida
