@@ -11,7 +11,7 @@ As universidades mobilizam um grande contingente de pessoas que precisam de se a
 
 #### Relatório
 
-AÇÂO: Cadastro 
+AÇÂO) Cadastro 
 
 Categoria (bebidas, lanches e sobremesas)
 {
@@ -27,7 +27,14 @@ Produto ()
 }
 No Main -> solicitar dados de ao menos 2 categorias e 3 produtos, criar os objetos e listar ocardápio
 
-OPCIONAL Criar menu
+OPCIONAL) Criar menu
 
-----------------------------------
--> java.util.ArrayList 
+---------------------------------- Pt2
+- Mover
+    Norte   y--
+    Sul ↓   y++
+    Oeste ← x--
+    Leste → x++
+
+- Armazenar nova posicao em arraylist
+- calcular distancia percorrida
